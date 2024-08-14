@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Configurando Planet Bot ⛏"];
+const statusMessages = ["Jugando en RocketMC ⛏"];
 
 
 let currentIndex = 0;
